@@ -1,3 +1,4 @@
+# Bem-vindo(a) ao perfil Nonato Rodrigo
 <div>
        <a href="https://github.com/nonato-rodrigo">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonato-rodrigo&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,7 +11,7 @@
       </div>
        <br>
        
-  <p><strong>Segue abaixo minhas redes!</strong></p>
+  ## Segue abaixo minhas redes!
   <br>
   
       <div>
@@ -19,3 +20,4 @@
         <a href="https://www.linkedin.com/in/nonato-rodrigo-204a11241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       </div>
         ![Animação de cobra](https://github.com/nonato-rodrigo/blob/output/github-contribution-grid-snake.svg)
+    </div>
